@@ -1,0 +1,16 @@
+{
+  "name": "sms-node-sample",
+  "version": "1.0.0",
+  "description": "Use this sample to see how our API works",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Full Stack Team Six",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "querystring": "^0.2.0"
+  }
+}
